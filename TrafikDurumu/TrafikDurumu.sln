@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.35319.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrafikDurumu", "TrafikDurumu\TrafikDurumu.csproj", "{31CE56C4-D761-488C-9EDB-A195DF9A513C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31CE56C4-D761-488C-9EDB-A195DF9A513C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31CE56C4-D761-488C-9EDB-A195DF9A513C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31CE56C4-D761-488C-9EDB-A195DF9A513C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31CE56C4-D761-488C-9EDB-A195DF9A513C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {671BA5F0-799D-441D-83EC-019CE408FC71}
+	EndGlobalSection
+EndGlobal

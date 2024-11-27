@@ -1,0 +1,7 @@
+C:\Users\yavuz\Desktop\ntp 6. hafta uygulaması\MatematikselIslemCesitlendirme\MatematikselIslemCesitlendirme\obj\Debug\MatematikselIslemCesitlendirme.csprojAssemblyReference.cache
+C:\Users\yavuz\Desktop\ntp 6. hafta uygulaması\MatematikselIslemCesitlendirme\MatematikselIslemCesitlendirme\obj\Debug\MatematikselIslemCesitlendirme.csproj.CoreCompileInputs.cache
+C:\Users\yavuz\Desktop\ntp 6. hafta uygulaması\MatematikselIslemCesitlendirme\MatematikselIslemCesitlendirme\bin\Debug\MatematikselIslemCesitlendirme.exe.config
+C:\Users\yavuz\Desktop\ntp 6. hafta uygulaması\MatematikselIslemCesitlendirme\MatematikselIslemCesitlendirme\bin\Debug\MatematikselIslemCesitlendirme.exe
+C:\Users\yavuz\Desktop\ntp 6. hafta uygulaması\MatematikselIslemCesitlendirme\MatematikselIslemCesitlendirme\bin\Debug\MatematikselIslemCesitlendirme.pdb
+C:\Users\yavuz\Desktop\ntp 6. hafta uygulaması\MatematikselIslemCesitlendirme\MatematikselIslemCesitlendirme\obj\Debug\MatematikselIslemCesitlendirme.exe
+C:\Users\yavuz\Desktop\ntp 6. hafta uygulaması\MatematikselIslemCesitlendirme\MatematikselIslemCesitlendirme\obj\Debug\MatematikselIslemCesitlendirme.pdb

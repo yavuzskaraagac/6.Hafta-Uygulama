@@ -1,0 +1,7 @@
+C:\Users\yavuz\Desktop\ntp 6. hafta uygulaması\SatrancTahtasi\SatrancTahtasi\bin\Debug\SatrancTahtasi.exe.config
+C:\Users\yavuz\Desktop\ntp 6. hafta uygulaması\SatrancTahtasi\SatrancTahtasi\bin\Debug\SatrancTahtasi.exe
+C:\Users\yavuz\Desktop\ntp 6. hafta uygulaması\SatrancTahtasi\SatrancTahtasi\bin\Debug\SatrancTahtasi.pdb
+C:\Users\yavuz\Desktop\ntp 6. hafta uygulaması\SatrancTahtasi\SatrancTahtasi\obj\Debug\SatrancTahtasi.csprojAssemblyReference.cache
+C:\Users\yavuz\Desktop\ntp 6. hafta uygulaması\SatrancTahtasi\SatrancTahtasi\obj\Debug\SatrancTahtasi.csproj.CoreCompileInputs.cache
+C:\Users\yavuz\Desktop\ntp 6. hafta uygulaması\SatrancTahtasi\SatrancTahtasi\obj\Debug\SatrancTahtasi.exe
+C:\Users\yavuz\Desktop\ntp 6. hafta uygulaması\SatrancTahtasi\SatrancTahtasi\obj\Debug\SatrancTahtasi.pdb

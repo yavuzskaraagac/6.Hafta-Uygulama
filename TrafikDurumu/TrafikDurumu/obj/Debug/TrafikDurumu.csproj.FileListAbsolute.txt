@@ -1,0 +1,7 @@
+C:\Users\yavuz\Desktop\ntp 6. hafta uygulaması\TrafikDurumu\TrafikDurumu\bin\Debug\TrafikDurumu.exe.config
+C:\Users\yavuz\Desktop\ntp 6. hafta uygulaması\TrafikDurumu\TrafikDurumu\bin\Debug\TrafikDurumu.exe
+C:\Users\yavuz\Desktop\ntp 6. hafta uygulaması\TrafikDurumu\TrafikDurumu\bin\Debug\TrafikDurumu.pdb
+C:\Users\yavuz\Desktop\ntp 6. hafta uygulaması\TrafikDurumu\TrafikDurumu\obj\Debug\TrafikDurumu.csprojAssemblyReference.cache
+C:\Users\yavuz\Desktop\ntp 6. hafta uygulaması\TrafikDurumu\TrafikDurumu\obj\Debug\TrafikDurumu.csproj.CoreCompileInputs.cache
+C:\Users\yavuz\Desktop\ntp 6. hafta uygulaması\TrafikDurumu\TrafikDurumu\obj\Debug\TrafikDurumu.exe
+C:\Users\yavuz\Desktop\ntp 6. hafta uygulaması\TrafikDurumu\TrafikDurumu\obj\Debug\TrafikDurumu.pdb

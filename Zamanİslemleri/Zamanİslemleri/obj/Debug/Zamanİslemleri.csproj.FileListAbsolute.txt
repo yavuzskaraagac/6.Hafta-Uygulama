@@ -1,0 +1,7 @@
+C:\Users\yavuz\Desktop\ntp 6. hafta uygulaması\Zamanİslemleri\Zamanİslemleri\bin\Debug\Zamanİslemleri.exe.config
+C:\Users\yavuz\Desktop\ntp 6. hafta uygulaması\Zamanİslemleri\Zamanİslemleri\bin\Debug\Zamanİslemleri.exe
+C:\Users\yavuz\Desktop\ntp 6. hafta uygulaması\Zamanİslemleri\Zamanİslemleri\bin\Debug\Zamanİslemleri.pdb
+C:\Users\yavuz\Desktop\ntp 6. hafta uygulaması\Zamanİslemleri\Zamanİslemleri\obj\Debug\Zamanİslemleri.csprojAssemblyReference.cache
+C:\Users\yavuz\Desktop\ntp 6. hafta uygulaması\Zamanİslemleri\Zamanİslemleri\obj\Debug\Zamanİslemleri.csproj.CoreCompileInputs.cache
+C:\Users\yavuz\Desktop\ntp 6. hafta uygulaması\Zamanİslemleri\Zamanİslemleri\obj\Debug\Zamanİslemleri.exe
+C:\Users\yavuz\Desktop\ntp 6. hafta uygulaması\Zamanİslemleri\Zamanİslemleri\obj\Debug\Zamanİslemleri.pdb

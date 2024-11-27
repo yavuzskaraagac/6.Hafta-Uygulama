@@ -1,0 +1,7 @@
+C:\Users\yavuz\Desktop\ntp 6. hafta uygulaması\OgrenciNotSistemi\OgrenciNotSistemi\bin\Debug\OgrenciNotSistemi.exe.config
+C:\Users\yavuz\Desktop\ntp 6. hafta uygulaması\OgrenciNotSistemi\OgrenciNotSistemi\bin\Debug\OgrenciNotSistemi.exe
+C:\Users\yavuz\Desktop\ntp 6. hafta uygulaması\OgrenciNotSistemi\OgrenciNotSistemi\bin\Debug\OgrenciNotSistemi.pdb
+C:\Users\yavuz\Desktop\ntp 6. hafta uygulaması\OgrenciNotSistemi\OgrenciNotSistemi\obj\Debug\OgrenciNotSistemi.csprojAssemblyReference.cache
+C:\Users\yavuz\Desktop\ntp 6. hafta uygulaması\OgrenciNotSistemi\OgrenciNotSistemi\obj\Debug\OgrenciNotSistemi.csproj.CoreCompileInputs.cache
+C:\Users\yavuz\Desktop\ntp 6. hafta uygulaması\OgrenciNotSistemi\OgrenciNotSistemi\obj\Debug\OgrenciNotSistemi.exe
+C:\Users\yavuz\Desktop\ntp 6. hafta uygulaması\OgrenciNotSistemi\OgrenciNotSistemi\obj\Debug\OgrenciNotSistemi.pdb
