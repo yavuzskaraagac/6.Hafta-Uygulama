@@ -1,0 +1,7 @@
+C:\Users\yavuz\Desktop\ntp 6. hafta uygulaması\KitaplikYonetimSistemi\KitaplikYonetimSistemi\bin\Debug\KitaplikYonetimSistemi.exe.config
+C:\Users\yavuz\Desktop\ntp 6. hafta uygulaması\KitaplikYonetimSistemi\KitaplikYonetimSistemi\bin\Debug\KitaplikYonetimSistemi.exe
+C:\Users\yavuz\Desktop\ntp 6. hafta uygulaması\KitaplikYonetimSistemi\KitaplikYonetimSistemi\bin\Debug\KitaplikYonetimSistemi.pdb
+C:\Users\yavuz\Desktop\ntp 6. hafta uygulaması\KitaplikYonetimSistemi\KitaplikYonetimSistemi\obj\Debug\KitaplikYonetimSistemi.csprojAssemblyReference.cache
+C:\Users\yavuz\Desktop\ntp 6. hafta uygulaması\KitaplikYonetimSistemi\KitaplikYonetimSistemi\obj\Debug\KitaplikYonetimSistemi.csproj.CoreCompileInputs.cache
+C:\Users\yavuz\Desktop\ntp 6. hafta uygulaması\KitaplikYonetimSistemi\KitaplikYonetimSistemi\obj\Debug\KitaplikYonetimSistemi.exe
+C:\Users\yavuz\Desktop\ntp 6. hafta uygulaması\KitaplikYonetimSistemi\KitaplikYonetimSistemi\obj\Debug\KitaplikYonetimSistemi.pdb

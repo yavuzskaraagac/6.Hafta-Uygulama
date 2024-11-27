@@ -1,0 +1,7 @@
+C:\Users\yavuz\Desktop\ntp 6. hafta uygulaması\HavaDurumuTahmini\HavaDurumuTahmini\bin\Debug\HavaDurumuTahmini.exe.config
+C:\Users\yavuz\Desktop\ntp 6. hafta uygulaması\HavaDurumuTahmini\HavaDurumuTahmini\bin\Debug\HavaDurumuTahmini.exe
+C:\Users\yavuz\Desktop\ntp 6. hafta uygulaması\HavaDurumuTahmini\HavaDurumuTahmini\bin\Debug\HavaDurumuTahmini.pdb
+C:\Users\yavuz\Desktop\ntp 6. hafta uygulaması\HavaDurumuTahmini\HavaDurumuTahmini\obj\Debug\HavaDurumuTahmini.csprojAssemblyReference.cache
+C:\Users\yavuz\Desktop\ntp 6. hafta uygulaması\HavaDurumuTahmini\HavaDurumuTahmini\obj\Debug\HavaDurumuTahmini.csproj.CoreCompileInputs.cache
+C:\Users\yavuz\Desktop\ntp 6. hafta uygulaması\HavaDurumuTahmini\HavaDurumuTahmini\obj\Debug\HavaDurumuTahmini.exe
+C:\Users\yavuz\Desktop\ntp 6. hafta uygulaması\HavaDurumuTahmini\HavaDurumuTahmini\obj\Debug\HavaDurumuTahmini.pdb

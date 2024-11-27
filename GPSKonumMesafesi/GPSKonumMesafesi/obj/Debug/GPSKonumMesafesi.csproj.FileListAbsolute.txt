@@ -1,0 +1,7 @@
+C:\Users\yavuz\Desktop\ntp 6. hafta uygulaması\GPSKonumMesafesi\GPSKonumMesafesi\bin\Debug\GPSKonumMesafesi.exe.config
+C:\Users\yavuz\Desktop\ntp 6. hafta uygulaması\GPSKonumMesafesi\GPSKonumMesafesi\bin\Debug\GPSKonumMesafesi.exe
+C:\Users\yavuz\Desktop\ntp 6. hafta uygulaması\GPSKonumMesafesi\GPSKonumMesafesi\bin\Debug\GPSKonumMesafesi.pdb
+C:\Users\yavuz\Desktop\ntp 6. hafta uygulaması\GPSKonumMesafesi\GPSKonumMesafesi\obj\Debug\GPSKonumMesafesi.csprojAssemblyReference.cache
+C:\Users\yavuz\Desktop\ntp 6. hafta uygulaması\GPSKonumMesafesi\GPSKonumMesafesi\obj\Debug\GPSKonumMesafesi.csproj.CoreCompileInputs.cache
+C:\Users\yavuz\Desktop\ntp 6. hafta uygulaması\GPSKonumMesafesi\GPSKonumMesafesi\obj\Debug\GPSKonumMesafesi.exe
+C:\Users\yavuz\Desktop\ntp 6. hafta uygulaması\GPSKonumMesafesi\GPSKonumMesafesi\obj\Debug\GPSKonumMesafesi.pdb

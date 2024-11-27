@@ -1,0 +1,7 @@
+C:\Users\yavuz\Desktop\ntp 6. hafta uygulaması\CalisanRolleriveMaasHesaplama\CalisanRolleriveMaasHesaplama\bin\Debug\CalisanRolleriveMaasHesaplama.exe.config
+C:\Users\yavuz\Desktop\ntp 6. hafta uygulaması\CalisanRolleriveMaasHesaplama\CalisanRolleriveMaasHesaplama\bin\Debug\CalisanRolleriveMaasHesaplama.exe
+C:\Users\yavuz\Desktop\ntp 6. hafta uygulaması\CalisanRolleriveMaasHesaplama\CalisanRolleriveMaasHesaplama\bin\Debug\CalisanRolleriveMaasHesaplama.pdb
+C:\Users\yavuz\Desktop\ntp 6. hafta uygulaması\CalisanRolleriveMaasHesaplama\CalisanRolleriveMaasHesaplama\obj\Debug\CalisanRolleriveMaasHesaplama.csprojAssemblyReference.cache
+C:\Users\yavuz\Desktop\ntp 6. hafta uygulaması\CalisanRolleriveMaasHesaplama\CalisanRolleriveMaasHesaplama\obj\Debug\CalisanRolleriveMaasHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\yavuz\Desktop\ntp 6. hafta uygulaması\CalisanRolleriveMaasHesaplama\CalisanRolleriveMaasHesaplama\obj\Debug\CalisanRolleriveMaasHesaplama.exe
+C:\Users\yavuz\Desktop\ntp 6. hafta uygulaması\CalisanRolleriveMaasHesaplama\CalisanRolleriveMaasHesaplama\obj\Debug\CalisanRolleriveMaasHesaplama.pdb

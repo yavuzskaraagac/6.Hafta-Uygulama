@@ -1,0 +1,7 @@
+C:\Users\yavuz\Desktop\ntp 6. hafta uygulaması\KarmasikSayiHesaplama\KarmasikSayiHesaplama\bin\Debug\KarmasikSayiHesaplama.exe.config
+C:\Users\yavuz\Desktop\ntp 6. hafta uygulaması\KarmasikSayiHesaplama\KarmasikSayiHesaplama\bin\Debug\KarmasikSayiHesaplama.exe
+C:\Users\yavuz\Desktop\ntp 6. hafta uygulaması\KarmasikSayiHesaplama\KarmasikSayiHesaplama\bin\Debug\KarmasikSayiHesaplama.pdb
+C:\Users\yavuz\Desktop\ntp 6. hafta uygulaması\KarmasikSayiHesaplama\KarmasikSayiHesaplama\obj\Debug\KarmasikSayiHesaplama.csprojAssemblyReference.cache
+C:\Users\yavuz\Desktop\ntp 6. hafta uygulaması\KarmasikSayiHesaplama\KarmasikSayiHesaplama\obj\Debug\KarmasikSayiHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\yavuz\Desktop\ntp 6. hafta uygulaması\KarmasikSayiHesaplama\KarmasikSayiHesaplama\obj\Debug\KarmasikSayiHesaplama.exe
+C:\Users\yavuz\Desktop\ntp 6. hafta uygulaması\KarmasikSayiHesaplama\KarmasikSayiHesaplama\obj\Debug\KarmasikSayiHesaplama.pdb
